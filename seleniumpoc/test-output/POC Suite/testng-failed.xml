@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [POC Suite]" guice-stage="DEVELOPMENT" verbose="10">
+  <test thread-count="2" parallel="tests" name="IFDS(failed)" verbose="10">
+    <classes>
+      <class name="seleniumpoc.IFDS">
+        <methods>
+          <include name="Browserclose"/>
+          <include name="browsersetup"/>
+          <include name="CustomerMenuNavigation" invocation-numbers="3"/>
+        </methods>
+      </class> <!-- seleniumpoc.IFDS -->
+    </classes>
+  </test> <!-- IFDS(failed) -->
+</suite> <!-- Failed suite [POC Suite] -->

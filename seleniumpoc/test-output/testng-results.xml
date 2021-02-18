@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[searchresultspagetitleis:duck - Google Search]]>
+    </line>
+    <line>
+      <![CDATA[duckduckgo — privacy, simplified.
+duckduckgo.comlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[duck - wikipedia
+en.wikipedia.org › wiki › ducklinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[domestic duck - wikipedia
+en.wikipedia.org › wiki › domestic_ducklinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[duck | definition, types, & facts | britannica
+www.britannica.com › ... › birdslinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[ducks browse by shape, all about birds, cornell lab of ...
+www.allaboutbirds.org › guide › browse › shape › duckslinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[ducks, geese, and waterfowl browse by family, all about ...
+www.allaboutbirds.org › browse › taxonomy › anatidaelinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[the runaway duck - youtube
+www.youtube.com › watchlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[searchresultspagetitleis:hen - Google Search]]>
+    </line>
+    <line>
+      <![CDATA[hen - wikipedia
+en.wikipedia.org › wiki › henlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen (pronoun) - wikipedia
+en.wikipedia.org › wiki › hen_(pronoun)linkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen | bird | britannica
+www.britannica.com › ... › branches of biologylinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[what is the difference between a hen and a chicken?
+www.euro-poultry.com › blog › what-is-the-difference-...linkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen - wiktionary
+en.wiktionary.org › wiki › henlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen | definition of hen by merriam-webster
+www.merriam-webster.com › dictionary › henlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen | definition of hen at dictionary.com
+www.dictionary.com › browse › henlinkisdsiplayedinsearchresults]]>
+    </line>
+    <line>
+      <![CDATA[hen | definition in the cambridge english dictionary
+dictionary.cambridge.org › dictionary › english › henlinkisdsiplayedinsearchresults]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-17T20:19:15 MST" name="Default suite" finished-at="2021-02-17T20:19:21 MST" duration-ms="6031">
+    <groups>
+    </groups>
+    <test started-at="2021-02-17T20:19:15 MST" name="Default test" finished-at="2021-02-17T20:19:21 MST" duration-ms="6031">
+      <class name="com.google.Testcases.VerifyGoogleSearch">
+        <test-method signature="verifytheSearchResults(java.lang.String)[pri:0, instance:com.google.Testcases.VerifyGoogleSearch@6e16b8b5]" started-at="2021-02-17T20:19:15 MST" name="verifytheSearchResults" data-provider="SearchData" finished-at="2021-02-17T20:19:18 MST" duration-ms="2790" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[duck]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[searchresultspagetitleis:duck - Google Search]]>
+            </line>
+            <line>
+              <![CDATA[duckduckgo — privacy, simplified.
+duckduckgo.comlinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[duck - wikipedia
+en.wikipedia.org › wiki › ducklinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[domestic duck - wikipedia
+en.wikipedia.org › wiki › domestic_ducklinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[duck | definition, types, & facts | britannica
+www.britannica.com › ... › birdslinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[ducks browse by shape, all about birds, cornell lab of ...
+www.allaboutbirds.org › guide › browse › shape › duckslinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[ducks, geese, and waterfowl browse by family, all about ...
+www.allaboutbirds.org › browse › taxonomy › anatidaelinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[the runaway duck - youtube
+www.youtube.com › watchlinkisdsiplayedinsearchresults]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifytheSearchResults -->
+        <test-method signature="verifytheSearchResults(java.lang.String)[pri:0, instance:com.google.Testcases.VerifyGoogleSearch@6e16b8b5]" started-at="2021-02-17T20:19:18 MST" name="verifytheSearchResults" data-provider="SearchData" finished-at="2021-02-17T20:19:20 MST" duration-ms="2459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[searchresultspagetitleis:hen - Google Search]]>
+            </line>
+            <line>
+              <![CDATA[hen - wikipedia
+en.wikipedia.org › wiki › henlinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen (pronoun) - wikipedia
+en.wikipedia.org › wiki › hen_(pronoun)linkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen | bird | britannica
+www.britannica.com › ... › branches of biologylinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[what is the difference between a hen and a chicken?
+www.euro-poultry.com › blog › what-is-the-difference-...linkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen - wiktionary
+en.wiktionary.org › wiki › henlinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen | definition of hen by merriam-webster
+www.merriam-webster.com › dictionary › henlinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen | definition of hen at dictionary.com
+www.dictionary.com › browse › henlinkisdsiplayedinsearchresults]]>
+            </line>
+            <line>
+              <![CDATA[hen | definition in the cambridge english dictionary
+dictionary.cambridge.org › dictionary › english › henlinkisdsiplayedinsearchresults]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifytheSearchResults -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.google.Testcases.VerifyGoogleSearch@6e16b8b5]" started-at="2021-02-17T20:19:20 MST" name="closeBrowser" finished-at="2021-02-17T20:19:21 MST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.google.Testcases.VerifyGoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
